@@ -21,6 +21,11 @@
     align-items: center;
 }
 
+.small-card__title > h1 {
+    font-size: 24px;
+
+}
+
 .container__small-card__separator {
     margin-top: 10px;
     
